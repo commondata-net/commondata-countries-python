@@ -50,6 +50,33 @@ country = countries["USA"]
 # Lookup by ISO Numeric
 country = countries[840]
 
+# Lookup by synonym
+country = countries["United States"]
+
+# Look up with fuzzy search
+country = countries["United Stat"]
+
 print(country)
 > Country(name='United States of America', iso_alpha2='US', iso_alpha3='USA', iso_numeric=840)
 ```
+
+***Use CLI to lookup a country***
+
+```bash
+python -m commondata-countries United States
+```
+
+## Other Formats and Datasets
+
+Download CSV, XLSX, JSON and YAML files from [commondata.net/countries](https://commondata.net/countries).
+
+[commondata.net](https://commondata.net) maintains a collection of essential datasets in a variety of formats, including
+python bindings. Check out the full library here: [commondata.net/library](https://commondata.net/library).
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request [here](https://github.com/commondata-net/commondata-countries-python).
+
+## License
+
+This project is licensed under GPLv3. See the [LICENSE](LICENSE) file for details.
