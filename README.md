@@ -79,4 +79,4 @@ Contributions are welcome! Please open an issue or submit a pull request [here](
 
 ## License
 
-This project is licensed under GPLv3. See the [LICENSE](LICENSE) file for details.
+This project is licensed under GPLv3. See the [LICENSE](https://github.com/commondata-net/commondata-countries-python/blob/main/LICENSE) file for details.
