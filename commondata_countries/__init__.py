@@ -2,17 +2,25 @@ from typing import Dict, Iterator, List, Union
 
 from rapidfuzz import process
 
-from commondata_countries.data import data
+from commondata_countries.data import countries
 
 
 class Country:
     """Represents a country with ISO 3166-1 codes and name."""
 
-    def __init__(self, label: str, iso_alpha2: str, iso_alpha3: str, iso_numeric: int):
+    def __init__(
+        self,
+        label: str,
+        iso_alpha2: str,
+        iso_alpha3: str,
+        iso_numeric: int,
+        synonyms: List[str],
+    ):
         self.label = label
         self.iso_alpha2 = iso_alpha2
         self.iso_alpha3 = iso_alpha3
         self.iso_numeric = iso_numeric
+        self.synonyms = synonyms
 
     def __repr__(self):
         return f"Country(label='{self.label}', iso_alpha2='{self.iso_alpha2}', iso_alpha3='{self.iso_alpha3}', iso_numeric={self.iso_numeric})"
@@ -27,12 +35,21 @@ class CountryData:
         self._index.update({c.iso_alpha3.upper(): c for c in self._countries})
         self._index.update({str(c.iso_numeric): c for c in self._countries})
         self._index.update({c.label.lower(): c for c in self._countries})
+        for c in self._countries:
+            for synonym in c.synonyms:
+                self._index[synonym.lower()] = c
 
     def _load_countries(self) -> List[Country]:
         """Loads country data from a static JSON file."""
         return [
-            Country(d["label"], d["iso_alpha2"], d["iso_alpha3"], d["iso_numeric"])
-            for d in data
+            Country(
+                d["label"],
+                d["iso_alpha2"],
+                d["iso_alpha3"],
+                d["iso_numeric"],
+                d["synonyms"],
+            )
+            for d in countries
         ]
 
     def all(self) -> List[Country]:
@@ -60,7 +77,7 @@ class CountryData:
         country_labels = list(self._index.keys())
         closest_match = process.extractOne(key_lower, country_labels)
 
-        if closest_match and closest_match[1] > 80:  # Threshold for similarity
+        if closest_match and closest_match[1] > 75:  # Threshold for similarity
             return self._index[closest_match[0]]
 
         raise KeyError(f"Country '{key}' not found.")

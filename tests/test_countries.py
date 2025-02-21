@@ -49,6 +49,11 @@ def test_fuzzy_lookup(country_data):
     assert country.label == "United States of America"
 
 
+def test_synonym_lookup(country_data):
+    country = country_data["Untied States"]
+    assert country.label == "United States of America"
+
+
 def test_iterate_countries(country_data):
     countries = list(country_data)
     assert len(countries) == len(country_data.all())
