@@ -1,6 +1,6 @@
 data = [
     {
-        "name": "Afghanistan",
+        "label": "Afghanistan",
         "iso_en_shortname": "Afghanistan",
         "iso_fr_shortname": "Afghanistan (l')",
         "iso_alpha2": "AF",
@@ -8,7 +8,7 @@ data = [
         "iso_numeric": 4,
     },
     {
-        "name": "Albania",
+        "label": "Albania",
         "iso_en_shortname": "Albania",
         "iso_fr_shortname": "Albanie (l')",
         "iso_alpha2": "AL",
@@ -16,7 +16,7 @@ data = [
         "iso_numeric": 8,
     },
     {
-        "name": "Algeria",
+        "label": "Algeria",
         "iso_en_shortname": "Algeria",
         "iso_fr_shortname": "Algérie (l')",
         "iso_alpha2": "DZ",
@@ -24,7 +24,7 @@ data = [
         "iso_numeric": 12,
     },
     {
-        "name": "American Samoa",
+        "label": "American Samoa",
         "iso_en_shortname": "American Samoa",
         "iso_fr_shortname": "Samoa américaines (les)",
         "iso_alpha2": "AS",
@@ -32,7 +32,7 @@ data = [
         "iso_numeric": 16,
     },
     {
-        "name": "Andorra",
+        "label": "Andorra",
         "iso_en_shortname": "Andorra",
         "iso_fr_shortname": "Andorre (l')",
         "iso_alpha2": "AD",
@@ -40,7 +40,7 @@ data = [
         "iso_numeric": 20,
     },
     {
-        "name": "Angola",
+        "label": "Angola",
         "iso_en_shortname": "Angola",
         "iso_fr_shortname": "Angola (l')",
         "iso_alpha2": "AO",
@@ -48,7 +48,7 @@ data = [
         "iso_numeric": 24,
     },
     {
-        "name": "Anguilla",
+        "label": "Anguilla",
         "iso_en_shortname": "Anguilla",
         "iso_fr_shortname": "Anguilla",
         "iso_alpha2": "AI",
@@ -56,7 +56,7 @@ data = [
         "iso_numeric": 660,
     },
     {
-        "name": "Antarctica",
+        "label": "Antarctica",
         "iso_en_shortname": "Antarctica",
         "iso_fr_shortname": "Antarctique (l')",
         "iso_alpha2": "AQ",
@@ -64,7 +64,7 @@ data = [
         "iso_numeric": 10,
     },
     {
-        "name": "Antigua and Barbuda",
+        "label": "Antigua and Barbuda",
         "iso_en_shortname": "Antigua and Barbuda",
         "iso_fr_shortname": "Antigua-et-Barbuda",
         "iso_alpha2": "AG",
@@ -72,7 +72,7 @@ data = [
         "iso_numeric": 28,
     },
     {
-        "name": "Argentina",
+        "label": "Argentina",
         "iso_en_shortname": "Argentina",
         "iso_fr_shortname": "Argentine (l')",
         "iso_alpha2": "AR",
@@ -80,7 +80,7 @@ data = [
         "iso_numeric": 32,
     },
     {
-        "name": "Armenia",
+        "label": "Armenia",
         "iso_en_shortname": "Armenia",
         "iso_fr_shortname": "Arménie (l')",
         "iso_alpha2": "AM",
@@ -88,7 +88,7 @@ data = [
         "iso_numeric": 51,
     },
     {
-        "name": "Aruba",
+        "label": "Aruba",
         "iso_en_shortname": "Aruba",
         "iso_fr_shortname": "Aruba",
         "iso_alpha2": "AW",
@@ -96,7 +96,7 @@ data = [
         "iso_numeric": 533,
     },
     {
-        "name": "Australia",
+        "label": "Australia",
         "iso_en_shortname": "Australia",
         "iso_fr_shortname": "Australie (l')",
         "iso_alpha2": "AU",
@@ -104,7 +104,7 @@ data = [
         "iso_numeric": 36,
     },
     {
-        "name": "Austria",
+        "label": "Austria",
         "iso_en_shortname": "Austria",
         "iso_fr_shortname": "Autriche (l')",
         "iso_alpha2": "AT",
@@ -112,7 +112,7 @@ data = [
         "iso_numeric": 40,
     },
     {
-        "name": "Azerbaijan",
+        "label": "Azerbaijan",
         "iso_en_shortname": "Azerbaijan",
         "iso_fr_shortname": "Azerbaïdjan (l')",
         "iso_alpha2": "AZ",
@@ -120,7 +120,7 @@ data = [
         "iso_numeric": 31,
     },
     {
-        "name": "Bahamas",
+        "label": "Bahamas",
         "iso_en_shortname": "Bahamas (the)",
         "iso_fr_shortname": "Bahamas (les)",
         "iso_alpha2": "BS",
@@ -128,7 +128,7 @@ data = [
         "iso_numeric": 44,
     },
     {
-        "name": "Bahrain",
+        "label": "Bahrain",
         "iso_en_shortname": "Bahrain",
         "iso_fr_shortname": "Bahreïn",
         "iso_alpha2": "BH",
@@ -136,7 +136,7 @@ data = [
         "iso_numeric": 48,
     },
     {
-        "name": "Bangladesh",
+        "label": "Bangladesh",
         "iso_en_shortname": "Bangladesh",
         "iso_fr_shortname": "Bangladesh (le)",
         "iso_alpha2": "BD",
@@ -144,7 +144,7 @@ data = [
         "iso_numeric": 50,
     },
     {
-        "name": "Barbados",
+        "label": "Barbados",
         "iso_en_shortname": "Barbados",
         "iso_fr_shortname": "Barbade (la)",
         "iso_alpha2": "BB",
@@ -152,7 +152,7 @@ data = [
         "iso_numeric": 52,
     },
     {
-        "name": "Belarus",
+        "label": "Belarus",
         "iso_en_shortname": "Belarus",
         "iso_fr_shortname": "Bélarus (le)",
         "iso_alpha2": "BY",
@@ -160,7 +160,7 @@ data = [
         "iso_numeric": 112,
     },
     {
-        "name": "Belgium",
+        "label": "Belgium",
         "iso_en_shortname": "Belgium",
         "iso_fr_shortname": "Belgique (la)",
         "iso_alpha2": "BE",
@@ -168,7 +168,7 @@ data = [
         "iso_numeric": 56,
     },
     {
-        "name": "Belize",
+        "label": "Belize",
         "iso_en_shortname": "Belize",
         "iso_fr_shortname": "Belize (le)",
         "iso_alpha2": "BZ",
@@ -176,7 +176,7 @@ data = [
         "iso_numeric": 84,
     },
     {
-        "name": "Benin",
+        "label": "Benin",
         "iso_en_shortname": "Benin",
         "iso_fr_shortname": "Bénin (le)",
         "iso_alpha2": "BJ",
@@ -184,7 +184,7 @@ data = [
         "iso_numeric": 204,
     },
     {
-        "name": "Bermuda",
+        "label": "Bermuda",
         "iso_en_shortname": "Bermuda",
         "iso_fr_shortname": "Bermudes (les)",
         "iso_alpha2": "BM",
@@ -192,7 +192,7 @@ data = [
         "iso_numeric": 60,
     },
     {
-        "name": "Bhutan",
+        "label": "Bhutan",
         "iso_en_shortname": "Bhutan",
         "iso_fr_shortname": "Bhoutan (le)",
         "iso_alpha2": "BT",
@@ -200,7 +200,7 @@ data = [
         "iso_numeric": 64,
     },
     {
-        "name": "Bolivia",
+        "label": "Bolivia",
         "iso_en_shortname": "Bolivia (Plurinational State of)",
         "iso_fr_shortname": "Bolivie (l'État plurinational de)",
         "iso_alpha2": "BO",
@@ -208,7 +208,7 @@ data = [
         "iso_numeric": 68,
     },
     {
-        "name": "Bonaire",
+        "label": "Bonaire",
         "iso_en_shortname": "Bonaire, Sint Eustatius and Saba",
         "iso_fr_shortname": "Bonaire, Saint-Eustache et Saba",
         "iso_alpha2": "BQ",
@@ -216,7 +216,7 @@ data = [
         "iso_numeric": 535,
     },
     {
-        "name": "Bosnia and Herzegovina",
+        "label": "Bosnia and Herzegovina",
         "iso_en_shortname": "Bosnia and Herzegovina",
         "iso_fr_shortname": "Bosnie-Herzégovine (la)",
         "iso_alpha2": "BA",
@@ -224,7 +224,7 @@ data = [
         "iso_numeric": 70,
     },
     {
-        "name": "Botswana",
+        "label": "Botswana",
         "iso_en_shortname": "Botswana",
         "iso_fr_shortname": "Botswana (le)",
         "iso_alpha2": "BW",
@@ -232,7 +232,7 @@ data = [
         "iso_numeric": 72,
     },
     {
-        "name": "Bouvet Island",
+        "label": "Bouvet Island",
         "iso_en_shortname": "Bouvet Island",
         "iso_fr_shortname": "Bouvet (l'île)",
         "iso_alpha2": "BV",
@@ -240,7 +240,7 @@ data = [
         "iso_numeric": 74,
     },
     {
-        "name": "Brazil",
+        "label": "Brazil",
         "iso_en_shortname": "Brazil",
         "iso_fr_shortname": "Brésil (le)",
         "iso_alpha2": "BR",
@@ -248,7 +248,7 @@ data = [
         "iso_numeric": 76,
     },
     {
-        "name": "British Indian Ocean Territory",
+        "label": "British Indian Ocean Territory",
         "iso_en_shortname": "British Indian Ocean Territory (the)",
         "iso_fr_shortname": "Indien (le Territoire britannique de l'océan)",
         "iso_alpha2": "IO",
@@ -256,7 +256,7 @@ data = [
         "iso_numeric": 86,
     },
     {
-        "name": "Brunei",
+        "label": "Brunei",
         "iso_en_shortname": "Brunei Darussalam",
         "iso_fr_shortname": "Brunéi Darussalam (le)",
         "iso_alpha2": "BN",
@@ -264,7 +264,7 @@ data = [
         "iso_numeric": 96,
     },
     {
-        "name": "Bulgaria",
+        "label": "Bulgaria",
         "iso_en_shortname": "Bulgaria",
         "iso_fr_shortname": "Bulgarie (la)",
         "iso_alpha2": "BG",
@@ -272,7 +272,7 @@ data = [
         "iso_numeric": 100,
     },
     {
-        "name": "Burkina Faso",
+        "label": "Burkina Faso",
         "iso_en_shortname": "Burkina Faso",
         "iso_fr_shortname": "Burkina Faso (le)",
         "iso_alpha2": "BF",
@@ -280,7 +280,7 @@ data = [
         "iso_numeric": 854,
     },
     {
-        "name": "Burundi",
+        "label": "Burundi",
         "iso_en_shortname": "Burundi",
         "iso_fr_shortname": "Burundi (le)",
         "iso_alpha2": "BI",
@@ -288,7 +288,7 @@ data = [
         "iso_numeric": 108,
     },
     {
-        "name": "Cabo Verde",
+        "label": "Cabo Verde",
         "iso_en_shortname": "Cabo Verde",
         "iso_fr_shortname": "Cabo Verde",
         "iso_alpha2": "CV",
@@ -296,7 +296,7 @@ data = [
         "iso_numeric": 132,
     },
     {
-        "name": "Cambodia",
+        "label": "Cambodia",
         "iso_en_shortname": "Cambodia",
         "iso_fr_shortname": "Cambodge (le)",
         "iso_alpha2": "KH",
@@ -304,7 +304,7 @@ data = [
         "iso_numeric": 116,
     },
     {
-        "name": "Cameroon",
+        "label": "Cameroon",
         "iso_en_shortname": "Cameroon",
         "iso_fr_shortname": "Cameroun (le)",
         "iso_alpha2": "CM",
@@ -312,7 +312,7 @@ data = [
         "iso_numeric": 120,
     },
     {
-        "name": "Canada",
+        "label": "Canada",
         "iso_en_shortname": "Canada",
         "iso_fr_shortname": "Canada (le)",
         "iso_alpha2": "CA",
@@ -320,7 +320,7 @@ data = [
         "iso_numeric": 124,
     },
     {
-        "name": "Cayman Islands",
+        "label": "Cayman Islands",
         "iso_en_shortname": "Cayman Islands (the)",
         "iso_fr_shortname": "Caïmans (les Îles)",
         "iso_alpha2": "KY",
@@ -328,7 +328,7 @@ data = [
         "iso_numeric": 136,
     },
     {
-        "name": "Central African Republic",
+        "label": "Central African Republic",
         "iso_en_shortname": "Central African Republic (the)",
         "iso_fr_shortname": "République centrafricaine (la)",
         "iso_alpha2": "CF",
@@ -336,7 +336,7 @@ data = [
         "iso_numeric": 140,
     },
     {
-        "name": "Chad",
+        "label": "Chad",
         "iso_en_shortname": "Chad",
         "iso_fr_shortname": "Tchad (le)",
         "iso_alpha2": "TD",
@@ -344,7 +344,7 @@ data = [
         "iso_numeric": 148,
     },
     {
-        "name": "Chile",
+        "label": "Chile",
         "iso_en_shortname": "Chile",
         "iso_fr_shortname": "Chili (le)",
         "iso_alpha2": "CL",
@@ -352,7 +352,7 @@ data = [
         "iso_numeric": 152,
     },
     {
-        "name": "China",
+        "label": "China",
         "iso_en_shortname": "China",
         "iso_fr_shortname": "Chine (la)",
         "iso_alpha2": "CN",
@@ -360,7 +360,7 @@ data = [
         "iso_numeric": 156,
     },
     {
-        "name": "Christmas Island",
+        "label": "Christmas Island",
         "iso_en_shortname": "Christmas Island",
         "iso_fr_shortname": "Christmas (l'Île)",
         "iso_alpha2": "CX",
@@ -368,7 +368,7 @@ data = [
         "iso_numeric": 162,
     },
     {
-        "name": "Cocos (Keeling) Islands",
+        "label": "Cocos (Keeling) Islands",
         "iso_en_shortname": "Cocos (Keeling) Islands (the)",
         "iso_fr_shortname": "Cocos (les Îles)/ Keeling (les Îles)",
         "iso_alpha2": "CC",
@@ -376,7 +376,7 @@ data = [
         "iso_numeric": 166,
     },
     {
-        "name": "Colombia",
+        "label": "Colombia",
         "iso_en_shortname": "Colombia",
         "iso_fr_shortname": "Colombie (la)",
         "iso_alpha2": "CO",
@@ -384,7 +384,7 @@ data = [
         "iso_numeric": 170,
     },
     {
-        "name": "Comoros",
+        "label": "Comoros",
         "iso_en_shortname": "Comoros (the)",
         "iso_fr_shortname": "Comores (les)",
         "iso_alpha2": "KM",
@@ -392,7 +392,7 @@ data = [
         "iso_numeric": 174,
     },
     {
-        "name": "Democratic Republic of the Congo",
+        "label": "Democratic Republic of the Congo",
         "iso_en_shortname": "Congo (the Democratic Republic of the)",
         "iso_fr_shortname": "Congo (la République démocratique du)",
         "iso_alpha2": "CD",
@@ -400,7 +400,7 @@ data = [
         "iso_numeric": 180,
     },
     {
-        "name": "Republic of the Congo",
+        "label": "Republic of the Congo",
         "iso_en_shortname": "Congo (the)",
         "iso_fr_shortname": "Congo (le)",
         "iso_alpha2": "CG",
@@ -408,7 +408,7 @@ data = [
         "iso_numeric": 178,
     },
     {
-        "name": "Cook Islands",
+        "label": "Cook Islands",
         "iso_en_shortname": "Cook Islands (the)",
         "iso_fr_shortname": "Cook (les Îles)",
         "iso_alpha2": "CK",
@@ -416,7 +416,7 @@ data = [
         "iso_numeric": 184,
     },
     {
-        "name": "Costa Rica",
+        "label": "Costa Rica",
         "iso_en_shortname": "Costa Rica",
         "iso_fr_shortname": "Costa Rica (le)",
         "iso_alpha2": "CR",
@@ -424,7 +424,7 @@ data = [
         "iso_numeric": 188,
     },
     {
-        "name": "Croatia",
+        "label": "Croatia",
         "iso_en_shortname": "Croatia",
         "iso_fr_shortname": "Croatie (la)",
         "iso_alpha2": "HR",
@@ -432,7 +432,7 @@ data = [
         "iso_numeric": 191,
     },
     {
-        "name": "Cuba",
+        "label": "Cuba",
         "iso_en_shortname": "Cuba",
         "iso_fr_shortname": "Cuba",
         "iso_alpha2": "CU",
@@ -440,7 +440,7 @@ data = [
         "iso_numeric": 192,
     },
     {
-        "name": "Curaçao",
+        "label": "Curaçao",
         "iso_en_shortname": "Curaçao",
         "iso_fr_shortname": "Curaçao",
         "iso_alpha2": "CW",
@@ -448,7 +448,7 @@ data = [
         "iso_numeric": 531,
     },
     {
-        "name": "Cyprus",
+        "label": "Cyprus",
         "iso_en_shortname": "Cyprus",
         "iso_fr_shortname": "Chypre",
         "iso_alpha2": "CY",
@@ -456,7 +456,7 @@ data = [
         "iso_numeric": 196,
     },
     {
-        "name": "Czechia",
+        "label": "Czechia",
         "iso_en_shortname": "Czechia",
         "iso_fr_shortname": "Tchéquie (la)",
         "iso_alpha2": "CZ",
@@ -464,7 +464,7 @@ data = [
         "iso_numeric": 203,
     },
     {
-        "name": "Côte d'Ivoire",
+        "label": "Côte d'Ivoire",
         "iso_en_shortname": "Côte d'Ivoire",
         "iso_fr_shortname": "Côte d'Ivoire (la)",
         "iso_alpha2": "CI",
@@ -472,7 +472,7 @@ data = [
         "iso_numeric": 384,
     },
     {
-        "name": "Denmark",
+        "label": "Denmark",
         "iso_en_shortname": "Denmark",
         "iso_fr_shortname": "Danemark (le)",
         "iso_alpha2": "DK",
@@ -480,7 +480,7 @@ data = [
         "iso_numeric": 208,
     },
     {
-        "name": "Djibouti",
+        "label": "Djibouti",
         "iso_en_shortname": "Djibouti",
         "iso_fr_shortname": "Djibouti",
         "iso_alpha2": "DJ",
@@ -488,7 +488,7 @@ data = [
         "iso_numeric": 262,
     },
     {
-        "name": "Dominica",
+        "label": "Dominica",
         "iso_en_shortname": "Dominica",
         "iso_fr_shortname": "Dominique (la)",
         "iso_alpha2": "DM",
@@ -496,7 +496,7 @@ data = [
         "iso_numeric": 212,
     },
     {
-        "name": "Dominican Republic",
+        "label": "Dominican Republic",
         "iso_en_shortname": "Dominican Republic (the)",
         "iso_fr_shortname": "dominicaine (la République)",
         "iso_alpha2": "DO",
@@ -504,7 +504,7 @@ data = [
         "iso_numeric": 214,
     },
     {
-        "name": "Ecuador",
+        "label": "Ecuador",
         "iso_en_shortname": "Ecuador",
         "iso_fr_shortname": "Équateur (l')",
         "iso_alpha2": "EC",
@@ -512,7 +512,7 @@ data = [
         "iso_numeric": 218,
     },
     {
-        "name": "Egypt",
+        "label": "Egypt",
         "iso_en_shortname": "Egypt",
         "iso_fr_shortname": "Égypte (l')",
         "iso_alpha2": "EG",
@@ -520,7 +520,7 @@ data = [
         "iso_numeric": 818,
     },
     {
-        "name": "El Salvador",
+        "label": "El Salvador",
         "iso_en_shortname": "El Salvador",
         "iso_fr_shortname": "El Salvador",
         "iso_alpha2": "SV",
@@ -528,7 +528,7 @@ data = [
         "iso_numeric": 222,
     },
     {
-        "name": "Equatorial Guinea",
+        "label": "Equatorial Guinea",
         "iso_en_shortname": "Equatorial Guinea",
         "iso_fr_shortname": "Guinée équatoriale (la)",
         "iso_alpha2": "GQ",
@@ -536,7 +536,7 @@ data = [
         "iso_numeric": 226,
     },
     {
-        "name": "Eritrea",
+        "label": "Eritrea",
         "iso_en_shortname": "Eritrea",
         "iso_fr_shortname": "Érythrée (l')",
         "iso_alpha2": "ER",
@@ -544,7 +544,7 @@ data = [
         "iso_numeric": 232,
     },
     {
-        "name": "Estonia",
+        "label": "Estonia",
         "iso_en_shortname": "Estonia",
         "iso_fr_shortname": "Estonie (l')",
         "iso_alpha2": "EE",
@@ -552,7 +552,7 @@ data = [
         "iso_numeric": 233,
     },
     {
-        "name": "Eswatini",
+        "label": "Eswatini",
         "iso_en_shortname": "Eswatini",
         "iso_fr_shortname": "Eswatini (l')",
         "iso_alpha2": "SZ",
@@ -560,7 +560,7 @@ data = [
         "iso_numeric": 748,
     },
     {
-        "name": "Ethiopia",
+        "label": "Ethiopia",
         "iso_en_shortname": "Ethiopia",
         "iso_fr_shortname": "Éthiopie (l')",
         "iso_alpha2": "ET",
@@ -568,7 +568,7 @@ data = [
         "iso_numeric": 231,
     },
     {
-        "name": "Falkland Islands",
+        "label": "Falkland Islands",
         "iso_en_shortname": "Falkland Islands (the) [Malvinas]",
         "iso_fr_shortname": "Falkland (les Îles)/Malouines (les Îles)",
         "iso_alpha2": "FK",
@@ -576,7 +576,7 @@ data = [
         "iso_numeric": 238,
     },
     {
-        "name": "Faroe Islands",
+        "label": "Faroe Islands",
         "iso_en_shortname": "Faroe Islands (the)",
         "iso_fr_shortname": "Féroé (les Îles)",
         "iso_alpha2": "FO",
@@ -584,7 +584,7 @@ data = [
         "iso_numeric": 234,
     },
     {
-        "name": "Fiji",
+        "label": "Fiji",
         "iso_en_shortname": "Fiji",
         "iso_fr_shortname": "Fidji (les)",
         "iso_alpha2": "FJ",
@@ -592,7 +592,7 @@ data = [
         "iso_numeric": 242,
     },
     {
-        "name": "Finland",
+        "label": "Finland",
         "iso_en_shortname": "Finland",
         "iso_fr_shortname": "Finlande (la)",
         "iso_alpha2": "FI",
@@ -600,7 +600,7 @@ data = [
         "iso_numeric": 246,
     },
     {
-        "name": "France",
+        "label": "France",
         "iso_en_shortname": "France",
         "iso_fr_shortname": "France (la)",
         "iso_alpha2": "FR",
@@ -608,7 +608,7 @@ data = [
         "iso_numeric": 250,
     },
     {
-        "name": "French Guiana",
+        "label": "French Guiana",
         "iso_en_shortname": "French Guiana",
         "iso_fr_shortname": "Guyane française (la)",
         "iso_alpha2": "GF",
@@ -616,7 +616,7 @@ data = [
         "iso_numeric": 254,
     },
     {
-        "name": "French Polynesia",
+        "label": "French Polynesia",
         "iso_en_shortname": "French Polynesia",
         "iso_fr_shortname": "Polynésie française (la)",
         "iso_alpha2": "PF",
@@ -624,7 +624,7 @@ data = [
         "iso_numeric": 258,
     },
     {
-        "name": "French Southern and Antarctic Lands",
+        "label": "French Southern and Antarctic Lands",
         "iso_en_shortname": "French Southern Territories (the)",
         "iso_fr_shortname": "Terres australes françaises (les)",
         "iso_alpha2": "TF",
@@ -632,7 +632,7 @@ data = [
         "iso_numeric": 260,
     },
     {
-        "name": "Gabon",
+        "label": "Gabon",
         "iso_en_shortname": "Gabon",
         "iso_fr_shortname": "Gabon (le)",
         "iso_alpha2": "GA",
@@ -640,7 +640,7 @@ data = [
         "iso_numeric": 266,
     },
     {
-        "name": "The Gambia",
+        "label": "The Gambia",
         "iso_en_shortname": "Gambia (the)",
         "iso_fr_shortname": "Gambie (la)",
         "iso_alpha2": "GM",
@@ -648,7 +648,7 @@ data = [
         "iso_numeric": 270,
     },
     {
-        "name": "Georgia",
+        "label": "Georgia",
         "iso_en_shortname": "Georgia",
         "iso_fr_shortname": "Géorgie (la)",
         "iso_alpha2": "GE",
@@ -656,7 +656,7 @@ data = [
         "iso_numeric": 268,
     },
     {
-        "name": "Germany",
+        "label": "Germany",
         "iso_en_shortname": "Germany",
         "iso_fr_shortname": "Allemagne (l')",
         "iso_alpha2": "DE",
@@ -664,7 +664,7 @@ data = [
         "iso_numeric": 276,
     },
     {
-        "name": "Ghana",
+        "label": "Ghana",
         "iso_en_shortname": "Ghana",
         "iso_fr_shortname": "Ghana (le)",
         "iso_alpha2": "GH",
@@ -672,7 +672,7 @@ data = [
         "iso_numeric": 288,
     },
     {
-        "name": "Gibraltar",
+        "label": "Gibraltar",
         "iso_en_shortname": "Gibraltar",
         "iso_fr_shortname": "Gibraltar",
         "iso_alpha2": "GI",
@@ -680,7 +680,7 @@ data = [
         "iso_numeric": 292,
     },
     {
-        "name": "Greece",
+        "label": "Greece",
         "iso_en_shortname": "Greece",
         "iso_fr_shortname": "Grèce (la)",
         "iso_alpha2": "GR",
@@ -688,7 +688,7 @@ data = [
         "iso_numeric": 300,
     },
     {
-        "name": "Greenland",
+        "label": "Greenland",
         "iso_en_shortname": "Greenland",
         "iso_fr_shortname": "Groenland (le)",
         "iso_alpha2": "GL",
@@ -696,7 +696,7 @@ data = [
         "iso_numeric": 304,
     },
     {
-        "name": "Grenada",
+        "label": "Grenada",
         "iso_en_shortname": "Grenada",
         "iso_fr_shortname": "Grenade (la)",
         "iso_alpha2": "GD",
@@ -704,7 +704,7 @@ data = [
         "iso_numeric": 308,
     },
     {
-        "name": "Guadeloupe",
+        "label": "Guadeloupe",
         "iso_en_shortname": "Guadeloupe",
         "iso_fr_shortname": "Guadeloupe (la)",
         "iso_alpha2": "GP",
@@ -712,7 +712,7 @@ data = [
         "iso_numeric": 312,
     },
     {
-        "name": "Guam",
+        "label": "Guam",
         "iso_en_shortname": "Guam",
         "iso_fr_shortname": "Guam",
         "iso_alpha2": "GU",
@@ -720,7 +720,7 @@ data = [
         "iso_numeric": 316,
     },
     {
-        "name": "Guatemala",
+        "label": "Guatemala",
         "iso_en_shortname": "Guatemala",
         "iso_fr_shortname": "Guatemala (le)",
         "iso_alpha2": "GT",
@@ -728,7 +728,7 @@ data = [
         "iso_numeric": 320,
     },
     {
-        "name": "Guernsey",
+        "label": "Guernsey",
         "iso_en_shortname": "Guernsey",
         "iso_fr_shortname": "Guernesey",
         "iso_alpha2": "GG",
@@ -736,7 +736,7 @@ data = [
         "iso_numeric": 831,
     },
     {
-        "name": "Guinea",
+        "label": "Guinea",
         "iso_en_shortname": "Guinea",
         "iso_fr_shortname": "Guinée (la)",
         "iso_alpha2": "GN",
@@ -744,7 +744,7 @@ data = [
         "iso_numeric": 324,
     },
     {
-        "name": "Guinea-Bissau",
+        "label": "Guinea-Bissau",
         "iso_en_shortname": "Guinea-Bissau",
         "iso_fr_shortname": "Guinée-Bissau (la)",
         "iso_alpha2": "GW",
@@ -752,7 +752,7 @@ data = [
         "iso_numeric": 624,
     },
     {
-        "name": "Guyana",
+        "label": "Guyana",
         "iso_en_shortname": "Guyana",
         "iso_fr_shortname": "Guyana (le)",
         "iso_alpha2": "GY",
@@ -760,7 +760,7 @@ data = [
         "iso_numeric": 328,
     },
     {
-        "name": "Haiti",
+        "label": "Haiti",
         "iso_en_shortname": "Haiti",
         "iso_fr_shortname": "Haïti",
         "iso_alpha2": "HT",
@@ -768,7 +768,7 @@ data = [
         "iso_numeric": 332,
     },
     {
-        "name": "Heard Island and McDonald Islands",
+        "label": "Heard Island and McDonald Islands",
         "iso_en_shortname": "Heard Island and McDonald Islands",
         "iso_fr_shortname": "Heard-et-MacDonald (l'Île)",
         "iso_alpha2": "HM",
@@ -776,7 +776,7 @@ data = [
         "iso_numeric": 334,
     },
     {
-        "name": "Holy See",
+        "label": "Holy See",
         "iso_en_shortname": "Holy See (the)",
         "iso_fr_shortname": "Saint-Siège (le)",
         "iso_alpha2": "VA",
@@ -784,7 +784,7 @@ data = [
         "iso_numeric": 336,
     },
     {
-        "name": "Honduras",
+        "label": "Honduras",
         "iso_en_shortname": "Honduras",
         "iso_fr_shortname": "Honduras (le)",
         "iso_alpha2": "HN",
@@ -792,7 +792,7 @@ data = [
         "iso_numeric": 340,
     },
     {
-        "name": "Hong Kong",
+        "label": "Hong Kong",
         "iso_en_shortname": "Hong Kong",
         "iso_fr_shortname": "Hong Kong",
         "iso_alpha2": "HK",
@@ -800,7 +800,7 @@ data = [
         "iso_numeric": 344,
     },
     {
-        "name": "Hungary",
+        "label": "Hungary",
         "iso_en_shortname": "Hungary",
         "iso_fr_shortname": "Hongrie (la)",
         "iso_alpha2": "HU",
@@ -808,7 +808,7 @@ data = [
         "iso_numeric": 348,
     },
     {
-        "name": "Iceland",
+        "label": "Iceland",
         "iso_en_shortname": "Iceland",
         "iso_fr_shortname": "Islande (l')",
         "iso_alpha2": "IS",
@@ -816,7 +816,7 @@ data = [
         "iso_numeric": 352,
     },
     {
-        "name": "India",
+        "label": "India",
         "iso_en_shortname": "India",
         "iso_fr_shortname": "Inde (l')",
         "iso_alpha2": "IN",
@@ -824,7 +824,7 @@ data = [
         "iso_numeric": 356,
     },
     {
-        "name": "Indonesia",
+        "label": "Indonesia",
         "iso_en_shortname": "Indonesia",
         "iso_fr_shortname": "Indonésie (l')",
         "iso_alpha2": "ID",
@@ -832,7 +832,7 @@ data = [
         "iso_numeric": 360,
     },
     {
-        "name": "Iran",
+        "label": "Iran",
         "iso_en_shortname": "Iran (Islamic Republic of)",
         "iso_fr_shortname": "Iran (République Islamique d')",
         "iso_alpha2": "IR",
@@ -840,7 +840,7 @@ data = [
         "iso_numeric": 364,
     },
     {
-        "name": "Iraq",
+        "label": "Iraq",
         "iso_en_shortname": "Iraq",
         "iso_fr_shortname": "Iraq (l')",
         "iso_alpha2": "IQ",
@@ -848,7 +848,7 @@ data = [
         "iso_numeric": 368,
     },
     {
-        "name": "Ireland",
+        "label": "Ireland",
         "iso_en_shortname": "Ireland",
         "iso_fr_shortname": "Irlande (l')",
         "iso_alpha2": "IE",
@@ -856,7 +856,7 @@ data = [
         "iso_numeric": 372,
     },
     {
-        "name": "Isle of Man",
+        "label": "Isle of Man",
         "iso_en_shortname": "Isle of Man",
         "iso_fr_shortname": "Île de Man",
         "iso_alpha2": "IM",
@@ -864,7 +864,7 @@ data = [
         "iso_numeric": 833,
     },
     {
-        "name": "Israel",
+        "label": "Israel",
         "iso_en_shortname": "Israel",
         "iso_fr_shortname": "Israël",
         "iso_alpha2": "IL",
@@ -872,7 +872,7 @@ data = [
         "iso_numeric": 376,
     },
     {
-        "name": "Italy",
+        "label": "Italy",
         "iso_en_shortname": "Italy",
         "iso_fr_shortname": "Italie (l')",
         "iso_alpha2": "IT",
@@ -880,7 +880,7 @@ data = [
         "iso_numeric": 380,
     },
     {
-        "name": "Jamaica",
+        "label": "Jamaica",
         "iso_en_shortname": "Jamaica",
         "iso_fr_shortname": "Jamaïque (la)",
         "iso_alpha2": "JM",
@@ -888,7 +888,7 @@ data = [
         "iso_numeric": 388,
     },
     {
-        "name": "Japan",
+        "label": "Japan",
         "iso_en_shortname": "Japan",
         "iso_fr_shortname": "Japon (le)",
         "iso_alpha2": "JP",
@@ -896,7 +896,7 @@ data = [
         "iso_numeric": 392,
     },
     {
-        "name": "Jersey",
+        "label": "Jersey",
         "iso_en_shortname": "Jersey",
         "iso_fr_shortname": "Jersey",
         "iso_alpha2": "JE",
@@ -904,7 +904,7 @@ data = [
         "iso_numeric": 832,
     },
     {
-        "name": "Jordan",
+        "label": "Jordan",
         "iso_en_shortname": "Jordan",
         "iso_fr_shortname": "Jordanie (la)",
         "iso_alpha2": "JO",
@@ -912,7 +912,7 @@ data = [
         "iso_numeric": 400,
     },
     {
-        "name": "Kazakhstan",
+        "label": "Kazakhstan",
         "iso_en_shortname": "Kazakhstan",
         "iso_fr_shortname": "Kazakhstan (le)",
         "iso_alpha2": "KZ",
@@ -920,7 +920,7 @@ data = [
         "iso_numeric": 398,
     },
     {
-        "name": "Kenya",
+        "label": "Kenya",
         "iso_en_shortname": "Kenya",
         "iso_fr_shortname": "Kenya (le)",
         "iso_alpha2": "KE",
@@ -928,7 +928,7 @@ data = [
         "iso_numeric": 404,
     },
     {
-        "name": "Kiribati",
+        "label": "Kiribati",
         "iso_en_shortname": "Kiribati",
         "iso_fr_shortname": "Kiribati",
         "iso_alpha2": "KI",
@@ -936,7 +936,7 @@ data = [
         "iso_numeric": 296,
     },
     {
-        "name": "North Korea",
+        "label": "North Korea",
         "iso_en_shortname": "Korea (the Democratic People's Republic of)",
         "iso_fr_shortname": "Corée (la République populaire démocratique de)",
         "iso_alpha2": "KP",
@@ -944,7 +944,7 @@ data = [
         "iso_numeric": 408,
     },
     {
-        "name": "South Korea",
+        "label": "South Korea",
         "iso_en_shortname": "Korea (the Republic of)",
         "iso_fr_shortname": "Corée (la République de)",
         "iso_alpha2": "KR",
@@ -952,7 +952,7 @@ data = [
         "iso_numeric": 410,
     },
     {
-        "name": "Kuwait",
+        "label": "Kuwait",
         "iso_en_shortname": "Kuwait",
         "iso_fr_shortname": "Koweït (le)",
         "iso_alpha2": "KW",
@@ -960,7 +960,7 @@ data = [
         "iso_numeric": 414,
     },
     {
-        "name": "Kyrgyzstan",
+        "label": "Kyrgyzstan",
         "iso_en_shortname": "Kyrgyzstan",
         "iso_fr_shortname": "Kirghizistan (le)",
         "iso_alpha2": "KG",
@@ -968,7 +968,7 @@ data = [
         "iso_numeric": 417,
     },
     {
-        "name": "Laos",
+        "label": "Laos",
         "iso_en_shortname": "Lao People's Democratic Republic (the)",
         "iso_fr_shortname": "Lao (la République démocratique populaire)",
         "iso_alpha2": "LA",
@@ -976,7 +976,7 @@ data = [
         "iso_numeric": 418,
     },
     {
-        "name": "Latvia",
+        "label": "Latvia",
         "iso_en_shortname": "Latvia",
         "iso_fr_shortname": "Lettonie (la)",
         "iso_alpha2": "LV",
@@ -984,7 +984,7 @@ data = [
         "iso_numeric": 428,
     },
     {
-        "name": "Lebanon",
+        "label": "Lebanon",
         "iso_en_shortname": "Lebanon",
         "iso_fr_shortname": "Liban (le)",
         "iso_alpha2": "LB",
@@ -992,7 +992,7 @@ data = [
         "iso_numeric": 422,
     },
     {
-        "name": "Lesotho",
+        "label": "Lesotho",
         "iso_en_shortname": "Lesotho",
         "iso_fr_shortname": "Lesotho (le)",
         "iso_alpha2": "LS",
@@ -1000,7 +1000,7 @@ data = [
         "iso_numeric": 426,
     },
     {
-        "name": "Liberia",
+        "label": "Liberia",
         "iso_en_shortname": "Liberia",
         "iso_fr_shortname": "Libéria (le)",
         "iso_alpha2": "LR",
@@ -1008,7 +1008,7 @@ data = [
         "iso_numeric": 430,
     },
     {
-        "name": "Libya",
+        "label": "Libya",
         "iso_en_shortname": "Libya",
         "iso_fr_shortname": "Libye (la)",
         "iso_alpha2": "LY",
@@ -1016,7 +1016,7 @@ data = [
         "iso_numeric": 434,
     },
     {
-        "name": "Liechtenstein",
+        "label": "Liechtenstein",
         "iso_en_shortname": "Liechtenstein",
         "iso_fr_shortname": "Liechtenstein (le)",
         "iso_alpha2": "LI",
@@ -1024,7 +1024,7 @@ data = [
         "iso_numeric": 438,
     },
     {
-        "name": "Lithuania",
+        "label": "Lithuania",
         "iso_en_shortname": "Lithuania",
         "iso_fr_shortname": "Lituanie (la)",
         "iso_alpha2": "LT",
@@ -1032,7 +1032,7 @@ data = [
         "iso_numeric": 440,
     },
     {
-        "name": "Luxembourg",
+        "label": "Luxembourg",
         "iso_en_shortname": "Luxembourg",
         "iso_fr_shortname": "Luxembourg (le)",
         "iso_alpha2": "LU",
@@ -1040,7 +1040,7 @@ data = [
         "iso_numeric": 442,
     },
     {
-        "name": "Macao",
+        "label": "Macao",
         "iso_en_shortname": "Macao",
         "iso_fr_shortname": "Macao",
         "iso_alpha2": "MO",
@@ -1048,7 +1048,7 @@ data = [
         "iso_numeric": 446,
     },
     {
-        "name": "Madagascar",
+        "label": "Madagascar",
         "iso_en_shortname": "Madagascar",
         "iso_fr_shortname": "Madagascar",
         "iso_alpha2": "MG",
@@ -1056,7 +1056,7 @@ data = [
         "iso_numeric": 450,
     },
     {
-        "name": "Malawi",
+        "label": "Malawi",
         "iso_en_shortname": "Malawi",
         "iso_fr_shortname": "Malawi (le)",
         "iso_alpha2": "MW",
@@ -1064,7 +1064,7 @@ data = [
         "iso_numeric": 454,
     },
     {
-        "name": "Malaysia",
+        "label": "Malaysia",
         "iso_en_shortname": "Malaysia",
         "iso_fr_shortname": "Malaisie (la)",
         "iso_alpha2": "MY",
@@ -1072,7 +1072,7 @@ data = [
         "iso_numeric": 458,
     },
     {
-        "name": "Maldives",
+        "label": "Maldives",
         "iso_en_shortname": "Maldives",
         "iso_fr_shortname": "Maldives (les)",
         "iso_alpha2": "MV",
@@ -1080,7 +1080,7 @@ data = [
         "iso_numeric": 462,
     },
     {
-        "name": "Mali",
+        "label": "Mali",
         "iso_en_shortname": "Mali",
         "iso_fr_shortname": "Mali (le)",
         "iso_alpha2": "ML",
@@ -1088,7 +1088,7 @@ data = [
         "iso_numeric": 466,
     },
     {
-        "name": "Malta",
+        "label": "Malta",
         "iso_en_shortname": "Malta",
         "iso_fr_shortname": "Malte",
         "iso_alpha2": "MT",
@@ -1096,7 +1096,7 @@ data = [
         "iso_numeric": 470,
     },
     {
-        "name": "Marshall Islands",
+        "label": "Marshall Islands",
         "iso_en_shortname": "Marshall Islands (the)",
         "iso_fr_shortname": "Marshall (les Îles)",
         "iso_alpha2": "MH",
@@ -1104,7 +1104,7 @@ data = [
         "iso_numeric": 584,
     },
     {
-        "name": "Martinique",
+        "label": "Martinique",
         "iso_en_shortname": "Martinique",
         "iso_fr_shortname": "Martinique (la)",
         "iso_alpha2": "MQ",
@@ -1112,7 +1112,7 @@ data = [
         "iso_numeric": 474,
     },
     {
-        "name": "Mauritania",
+        "label": "Mauritania",
         "iso_en_shortname": "Mauritania",
         "iso_fr_shortname": "Mauritanie (la)",
         "iso_alpha2": "MR",
@@ -1120,7 +1120,7 @@ data = [
         "iso_numeric": 478,
     },
     {
-        "name": "Mauritius",
+        "label": "Mauritius",
         "iso_en_shortname": "Mauritius",
         "iso_fr_shortname": "Maurice",
         "iso_alpha2": "MU",
@@ -1128,7 +1128,7 @@ data = [
         "iso_numeric": 480,
     },
     {
-        "name": "Mayotte",
+        "label": "Mayotte",
         "iso_en_shortname": "Mayotte",
         "iso_fr_shortname": "Mayotte",
         "iso_alpha2": "YT",
@@ -1136,7 +1136,7 @@ data = [
         "iso_numeric": 175,
     },
     {
-        "name": "Mexico",
+        "label": "Mexico",
         "iso_en_shortname": "Mexico",
         "iso_fr_shortname": "Mexique (le)",
         "iso_alpha2": "MX",
@@ -1144,7 +1144,7 @@ data = [
         "iso_numeric": 484,
     },
     {
-        "name": "Micronesia",
+        "label": "Micronesia",
         "iso_en_shortname": "Micronesia (Federated States of)",
         "iso_fr_shortname": "Micronésie (États fédérés de)",
         "iso_alpha2": "FM",
@@ -1152,7 +1152,7 @@ data = [
         "iso_numeric": 583,
     },
     {
-        "name": "Moldova",
+        "label": "Moldova",
         "iso_en_shortname": "Moldova (the Republic of)",
         "iso_fr_shortname": "Moldova (la République de)",
         "iso_alpha2": "MD",
@@ -1160,7 +1160,7 @@ data = [
         "iso_numeric": 498,
     },
     {
-        "name": "Monaco",
+        "label": "Monaco",
         "iso_en_shortname": "Monaco",
         "iso_fr_shortname": "Monaco",
         "iso_alpha2": "MC",
@@ -1168,7 +1168,7 @@ data = [
         "iso_numeric": 492,
     },
     {
-        "name": "Mongolia",
+        "label": "Mongolia",
         "iso_en_shortname": "Mongolia",
         "iso_fr_shortname": "Mongolie (la)",
         "iso_alpha2": "MN",
@@ -1176,7 +1176,7 @@ data = [
         "iso_numeric": 496,
     },
     {
-        "name": "Montenegro",
+        "label": "Montenegro",
         "iso_en_shortname": "Montenegro",
         "iso_fr_shortname": "Monténégro (le)",
         "iso_alpha2": "ME",
@@ -1184,7 +1184,7 @@ data = [
         "iso_numeric": 499,
     },
     {
-        "name": "Montserrat",
+        "label": "Montserrat",
         "iso_en_shortname": "Montserrat",
         "iso_fr_shortname": "Montserrat",
         "iso_alpha2": "MS",
@@ -1192,7 +1192,7 @@ data = [
         "iso_numeric": 500,
     },
     {
-        "name": "Morocco",
+        "label": "Morocco",
         "iso_en_shortname": "Morocco",
         "iso_fr_shortname": "Maroc (le)",
         "iso_alpha2": "MA",
@@ -1200,7 +1200,7 @@ data = [
         "iso_numeric": 504,
     },
     {
-        "name": "Mozambique",
+        "label": "Mozambique",
         "iso_en_shortname": "Mozambique",
         "iso_fr_shortname": "Mozambique (le)",
         "iso_alpha2": "MZ",
@@ -1208,7 +1208,7 @@ data = [
         "iso_numeric": 508,
     },
     {
-        "name": "Myanmar",
+        "label": "Myanmar",
         "iso_en_shortname": "Myanmar",
         "iso_fr_shortname": "Myanmar (le)",
         "iso_alpha2": "MM",
@@ -1216,7 +1216,7 @@ data = [
         "iso_numeric": 104,
     },
     {
-        "name": "Namibia",
+        "label": "Namibia",
         "iso_en_shortname": "Namibia",
         "iso_fr_shortname": "Namibie (la)",
         "iso_alpha2": "NA",
@@ -1224,7 +1224,7 @@ data = [
         "iso_numeric": 516,
     },
     {
-        "name": "Nauru",
+        "label": "Nauru",
         "iso_en_shortname": "Nauru",
         "iso_fr_shortname": "Nauru",
         "iso_alpha2": "NR",
@@ -1232,7 +1232,7 @@ data = [
         "iso_numeric": 520,
     },
     {
-        "name": "Nepal",
+        "label": "Nepal",
         "iso_en_shortname": "Nepal",
         "iso_fr_shortname": "Népal (le)",
         "iso_alpha2": "NP",
@@ -1240,7 +1240,7 @@ data = [
         "iso_numeric": 524,
     },
     {
-        "name": "Netherlands",
+        "label": "Netherlands",
         "iso_en_shortname": "Netherlands (Kingdom of the)",
         "iso_fr_shortname": "Pays-Bas (Royaume des)",
         "iso_alpha2": "NL",
@@ -1248,7 +1248,7 @@ data = [
         "iso_numeric": 528,
     },
     {
-        "name": "New Caledonia",
+        "label": "New Caledonia",
         "iso_en_shortname": "New Caledonia",
         "iso_fr_shortname": "Nouvelle-Calédonie (la)",
         "iso_alpha2": "NC",
@@ -1256,7 +1256,7 @@ data = [
         "iso_numeric": 540,
     },
     {
-        "name": "New Zealand",
+        "label": "New Zealand",
         "iso_en_shortname": "New Zealand",
         "iso_fr_shortname": "Nouvelle-Zélande (la)",
         "iso_alpha2": "NZ",
@@ -1264,7 +1264,7 @@ data = [
         "iso_numeric": 554,
     },
     {
-        "name": "Nicaragua",
+        "label": "Nicaragua",
         "iso_en_shortname": "Nicaragua",
         "iso_fr_shortname": "Nicaragua (le)",
         "iso_alpha2": "NI",
@@ -1272,7 +1272,7 @@ data = [
         "iso_numeric": 558,
     },
     {
-        "name": "Niger",
+        "label": "Niger",
         "iso_en_shortname": "Niger (the)",
         "iso_fr_shortname": "Niger (le)",
         "iso_alpha2": "NE",
@@ -1280,7 +1280,7 @@ data = [
         "iso_numeric": 562,
     },
     {
-        "name": "Nigeria",
+        "label": "Nigeria",
         "iso_en_shortname": "Nigeria",
         "iso_fr_shortname": "Nigéria (le)",
         "iso_alpha2": "NG",
@@ -1288,7 +1288,7 @@ data = [
         "iso_numeric": 566,
     },
     {
-        "name": "Niue",
+        "label": "Niue",
         "iso_en_shortname": "Niue",
         "iso_fr_shortname": "Niue",
         "iso_alpha2": "NU",
@@ -1296,7 +1296,7 @@ data = [
         "iso_numeric": 570,
     },
     {
-        "name": "Norfolk Island",
+        "label": "Norfolk Island",
         "iso_en_shortname": "Norfolk Island",
         "iso_fr_shortname": "Norfolk (l'Île)",
         "iso_alpha2": "NF",
@@ -1304,7 +1304,7 @@ data = [
         "iso_numeric": 574,
     },
     {
-        "name": "North Macedonia",
+        "label": "North Macedonia",
         "iso_en_shortname": "North Macedonia",
         "iso_fr_shortname": "Macédoine du Nord (la)",
         "iso_alpha2": "MK",
@@ -1312,7 +1312,7 @@ data = [
         "iso_numeric": 807,
     },
     {
-        "name": "Northern Mariana Islands",
+        "label": "Northern Mariana Islands",
         "iso_en_shortname": "Northern Mariana Islands (the)",
         "iso_fr_shortname": "Mariannes du Nord (les Îles)",
         "iso_alpha2": "MP",
@@ -1320,7 +1320,7 @@ data = [
         "iso_numeric": 580,
     },
     {
-        "name": "Norway",
+        "label": "Norway",
         "iso_en_shortname": "Norway",
         "iso_fr_shortname": "Norvège (la)",
         "iso_alpha2": "NO",
@@ -1328,7 +1328,7 @@ data = [
         "iso_numeric": 578,
     },
     {
-        "name": "Oman",
+        "label": "Oman",
         "iso_en_shortname": "Oman",
         "iso_fr_shortname": "Oman",
         "iso_alpha2": "OM",
@@ -1336,7 +1336,7 @@ data = [
         "iso_numeric": 512,
     },
     {
-        "name": "Pakistan",
+        "label": "Pakistan",
         "iso_en_shortname": "Pakistan",
         "iso_fr_shortname": "Pakistan (le)",
         "iso_alpha2": "PK",
@@ -1344,7 +1344,7 @@ data = [
         "iso_numeric": 586,
     },
     {
-        "name": "Palau",
+        "label": "Palau",
         "iso_en_shortname": "Palau",
         "iso_fr_shortname": "Palaos (les)",
         "iso_alpha2": "PW",
@@ -1352,7 +1352,7 @@ data = [
         "iso_numeric": 585,
     },
     {
-        "name": "Palestine",
+        "label": "Palestine",
         "iso_en_shortname": "Palestine, State of",
         "iso_fr_shortname": "Palestine, État de",
         "iso_alpha2": "PS",
@@ -1360,7 +1360,7 @@ data = [
         "iso_numeric": 275,
     },
     {
-        "name": "Panama",
+        "label": "Panama",
         "iso_en_shortname": "Panama",
         "iso_fr_shortname": "Panama (le)",
         "iso_alpha2": "PA",
@@ -1368,7 +1368,7 @@ data = [
         "iso_numeric": 591,
     },
     {
-        "name": "Papua New Guinea",
+        "label": "Papua New Guinea",
         "iso_en_shortname": "Papua New Guinea",
         "iso_fr_shortname": "Papouasie-Nouvelle-Guinée (la)",
         "iso_alpha2": "PG",
@@ -1376,7 +1376,7 @@ data = [
         "iso_numeric": 598,
     },
     {
-        "name": "Paraguay",
+        "label": "Paraguay",
         "iso_en_shortname": "Paraguay",
         "iso_fr_shortname": "Paraguay (le)",
         "iso_alpha2": "PY",
@@ -1384,7 +1384,7 @@ data = [
         "iso_numeric": 600,
     },
     {
-        "name": "Peru",
+        "label": "Peru",
         "iso_en_shortname": "Peru",
         "iso_fr_shortname": "Pérou (le)",
         "iso_alpha2": "PE",
@@ -1392,7 +1392,7 @@ data = [
         "iso_numeric": 604,
     },
     {
-        "name": "Philippines",
+        "label": "Philippines",
         "iso_en_shortname": "Philippines (the)",
         "iso_fr_shortname": "Philippines (les)",
         "iso_alpha2": "PH",
@@ -1400,7 +1400,7 @@ data = [
         "iso_numeric": 608,
     },
     {
-        "name": "Pitcairn",
+        "label": "Pitcairn",
         "iso_en_shortname": "Pitcairn",
         "iso_fr_shortname": "Pitcairn",
         "iso_alpha2": "PN",
@@ -1408,7 +1408,7 @@ data = [
         "iso_numeric": 612,
     },
     {
-        "name": "Poland",
+        "label": "Poland",
         "iso_en_shortname": "Poland",
         "iso_fr_shortname": "Pologne (la)",
         "iso_alpha2": "PL",
@@ -1416,7 +1416,7 @@ data = [
         "iso_numeric": 616,
     },
     {
-        "name": "Portugal",
+        "label": "Portugal",
         "iso_en_shortname": "Portugal",
         "iso_fr_shortname": "Portugal (le)",
         "iso_alpha2": "PT",
@@ -1424,7 +1424,7 @@ data = [
         "iso_numeric": 620,
     },
     {
-        "name": "Puerto Rico",
+        "label": "Puerto Rico",
         "iso_en_shortname": "Puerto Rico",
         "iso_fr_shortname": "Porto Rico",
         "iso_alpha2": "PR",
@@ -1432,7 +1432,7 @@ data = [
         "iso_numeric": 630,
     },
     {
-        "name": "Qatar",
+        "label": "Qatar",
         "iso_en_shortname": "Qatar",
         "iso_fr_shortname": "Qatar (le)",
         "iso_alpha2": "QA",
@@ -1440,7 +1440,7 @@ data = [
         "iso_numeric": 634,
     },
     {
-        "name": "Romania",
+        "label": "Romania",
         "iso_en_shortname": "Romania",
         "iso_fr_shortname": "Roumanie (la)",
         "iso_alpha2": "RO",
@@ -1448,7 +1448,7 @@ data = [
         "iso_numeric": 642,
     },
     {
-        "name": "Russian Federation",
+        "label": "Russian Federation",
         "iso_en_shortname": "Russian Federation (the)",
         "iso_fr_shortname": "Russie (la Fédération de)",
         "iso_alpha2": "RU",
@@ -1456,7 +1456,7 @@ data = [
         "iso_numeric": 643,
     },
     {
-        "name": "Rwanda",
+        "label": "Rwanda",
         "iso_en_shortname": "Rwanda",
         "iso_fr_shortname": "Rwanda (le)",
         "iso_alpha2": "RW",
@@ -1464,7 +1464,7 @@ data = [
         "iso_numeric": 646,
     },
     {
-        "name": "Réunion",
+        "label": "Réunion",
         "iso_en_shortname": "Réunion",
         "iso_fr_shortname": "Réunion (La)",
         "iso_alpha2": "RE",
@@ -1472,7 +1472,7 @@ data = [
         "iso_numeric": 638,
     },
     {
-        "name": "Saint Barthélemy",
+        "label": "Saint Barthélemy",
         "iso_en_shortname": "Saint Barthélemy",
         "iso_fr_shortname": "Saint-Barthélemy",
         "iso_alpha2": "BL",
@@ -1480,7 +1480,7 @@ data = [
         "iso_numeric": 652,
     },
     {
-        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "label": "Saint Helena, Ascension and Tristan da Cunha",
         "iso_en_shortname": "Saint Helena, Ascension and Tristan da Cunha",
         "iso_fr_shortname": "Sainte-Hélène, Ascension et Tristan da Cunha",
         "iso_alpha2": "SH",
@@ -1488,7 +1488,7 @@ data = [
         "iso_numeric": 654,
     },
     {
-        "name": "Saint Kitts and Nevis",
+        "label": "Saint Kitts and Nevis",
         "iso_en_shortname": "Saint Kitts and Nevis",
         "iso_fr_shortname": "Saint-Kitts-et-Nevis",
         "iso_alpha2": "KN",
@@ -1496,7 +1496,7 @@ data = [
         "iso_numeric": 659,
     },
     {
-        "name": "Saint Lucia",
+        "label": "Saint Lucia",
         "iso_en_shortname": "Saint Lucia",
         "iso_fr_shortname": "Sainte-Lucie",
         "iso_alpha2": "LC",
@@ -1504,7 +1504,7 @@ data = [
         "iso_numeric": 662,
     },
     {
-        "name": "Saint Martin",
+        "label": "Saint Martin",
         "iso_en_shortname": "Saint Martin (French part)",
         "iso_fr_shortname": "Saint-Martin (partie française)",
         "iso_alpha2": "MF",
@@ -1512,7 +1512,7 @@ data = [
         "iso_numeric": 663,
     },
     {
-        "name": "Saint Pierre and Miquelon",
+        "label": "Saint Pierre and Miquelon",
         "iso_en_shortname": "Saint Pierre and Miquelon",
         "iso_fr_shortname": "Saint-Pierre-et-Miquelon",
         "iso_alpha2": "PM",
@@ -1520,7 +1520,7 @@ data = [
         "iso_numeric": 666,
     },
     {
-        "name": "Saint Vincent and the Grenadines",
+        "label": "Saint Vincent and the Grenadines",
         "iso_en_shortname": "Saint Vincent and the Grenadines",
         "iso_fr_shortname": "Saint-Vincent-et-les Grenadines",
         "iso_alpha2": "VC",
@@ -1528,7 +1528,7 @@ data = [
         "iso_numeric": 670,
     },
     {
-        "name": "Samoa",
+        "label": "Samoa",
         "iso_en_shortname": "Samoa",
         "iso_fr_shortname": "Samoa (le)",
         "iso_alpha2": "WS",
@@ -1536,7 +1536,7 @@ data = [
         "iso_numeric": 882,
     },
     {
-        "name": "San Marino",
+        "label": "San Marino",
         "iso_en_shortname": "San Marino",
         "iso_fr_shortname": "Saint-Marin",
         "iso_alpha2": "SM",
@@ -1544,7 +1544,7 @@ data = [
         "iso_numeric": 674,
     },
     {
-        "name": "São Tomé and Príncipe",
+        "label": "São Tomé and Príncipe",
         "iso_en_shortname": "Sao Tome and Principe",
         "iso_fr_shortname": "Sao Tomé-et-Principe",
         "iso_alpha2": "ST",
@@ -1552,7 +1552,7 @@ data = [
         "iso_numeric": 678,
     },
     {
-        "name": "Saudi Arabia",
+        "label": "Saudi Arabia",
         "iso_en_shortname": "Saudi Arabia",
         "iso_fr_shortname": "Arabie saoudite (l')",
         "iso_alpha2": "SA",
@@ -1560,7 +1560,7 @@ data = [
         "iso_numeric": 682,
     },
     {
-        "name": "Senegal",
+        "label": "Senegal",
         "iso_en_shortname": "Senegal",
         "iso_fr_shortname": "Sénégal (le)",
         "iso_alpha2": "SN",
@@ -1568,7 +1568,7 @@ data = [
         "iso_numeric": 686,
     },
     {
-        "name": "Serbia",
+        "label": "Serbia",
         "iso_en_shortname": "Serbia",
         "iso_fr_shortname": "Serbie (la)",
         "iso_alpha2": "RS",
@@ -1576,7 +1576,7 @@ data = [
         "iso_numeric": 688,
     },
     {
-        "name": "Seychelles",
+        "label": "Seychelles",
         "iso_en_shortname": "Seychelles",
         "iso_fr_shortname": "Seychelles (les)",
         "iso_alpha2": "SC",
@@ -1584,7 +1584,7 @@ data = [
         "iso_numeric": 690,
     },
     {
-        "name": "Sierra Leone",
+        "label": "Sierra Leone",
         "iso_en_shortname": "Sierra Leone",
         "iso_fr_shortname": "Sierra Leone (la)",
         "iso_alpha2": "SL",
@@ -1592,7 +1592,7 @@ data = [
         "iso_numeric": 694,
     },
     {
-        "name": "Singapore",
+        "label": "Singapore",
         "iso_en_shortname": "Singapore",
         "iso_fr_shortname": "Singapour",
         "iso_alpha2": "SG",
@@ -1600,7 +1600,7 @@ data = [
         "iso_numeric": 702,
     },
     {
-        "name": "Sint Maarten",
+        "label": "Sint Maarten",
         "iso_en_shortname": "Sint Maarten (Dutch part)",
         "iso_fr_shortname": "Saint-Martin (partie néerlandaise)",
         "iso_alpha2": "SX",
@@ -1608,7 +1608,7 @@ data = [
         "iso_numeric": 534,
     },
     {
-        "name": "Slovakia",
+        "label": "Slovakia",
         "iso_en_shortname": "Slovakia",
         "iso_fr_shortname": "Slovaquie (la)",
         "iso_alpha2": "SK",
@@ -1616,7 +1616,7 @@ data = [
         "iso_numeric": 703,
     },
     {
-        "name": "Slovenia",
+        "label": "Slovenia",
         "iso_en_shortname": "Slovenia",
         "iso_fr_shortname": "Slovénie (la)",
         "iso_alpha2": "SI",
@@ -1624,7 +1624,7 @@ data = [
         "iso_numeric": 705,
     },
     {
-        "name": "Solomon Islands",
+        "label": "Solomon Islands",
         "iso_en_shortname": "Solomon Islands",
         "iso_fr_shortname": "Salomon (les Îles)",
         "iso_alpha2": "SB",
@@ -1632,7 +1632,7 @@ data = [
         "iso_numeric": 90,
     },
     {
-        "name": "Somalia",
+        "label": "Somalia",
         "iso_en_shortname": "Somalia",
         "iso_fr_shortname": "Somalie (la)",
         "iso_alpha2": "SO",
@@ -1640,7 +1640,7 @@ data = [
         "iso_numeric": 706,
     },
     {
-        "name": "South Africa",
+        "label": "South Africa",
         "iso_en_shortname": "South Africa",
         "iso_fr_shortname": "Afrique du Sud (l')",
         "iso_alpha2": "ZA",
@@ -1648,7 +1648,7 @@ data = [
         "iso_numeric": 710,
     },
     {
-        "name": "South Georgia and the South Sandwich Islands",
+        "label": "South Georgia and the South Sandwich Islands",
         "iso_en_shortname": "South Georgia and the South Sandwich Islands",
         "iso_fr_shortname": "Géorgie du Sud-et-les Îles Sandwich du Sud (la)",
         "iso_alpha2": "GS",
@@ -1656,7 +1656,7 @@ data = [
         "iso_numeric": 239,
     },
     {
-        "name": "South Sudan",
+        "label": "South Sudan",
         "iso_en_shortname": "South Sudan",
         "iso_fr_shortname": "Soudan du Sud (le)",
         "iso_alpha2": "SS",
@@ -1664,7 +1664,7 @@ data = [
         "iso_numeric": 728,
     },
     {
-        "name": "Spain",
+        "label": "Spain",
         "iso_en_shortname": "Spain",
         "iso_fr_shortname": "Espagne (l')",
         "iso_alpha2": "ES",
@@ -1672,7 +1672,7 @@ data = [
         "iso_numeric": 724,
     },
     {
-        "name": "Sri Lanka",
+        "label": "Sri Lanka",
         "iso_en_shortname": "Sri Lanka",
         "iso_fr_shortname": "Sri Lanka",
         "iso_alpha2": "LK",
@@ -1680,7 +1680,7 @@ data = [
         "iso_numeric": 144,
     },
     {
-        "name": "Sudan",
+        "label": "Sudan",
         "iso_en_shortname": "Sudan (the)",
         "iso_fr_shortname": "Soudan (le)",
         "iso_alpha2": "SD",
@@ -1688,7 +1688,7 @@ data = [
         "iso_numeric": 729,
     },
     {
-        "name": "Suriname",
+        "label": "Suriname",
         "iso_en_shortname": "Suriname",
         "iso_fr_shortname": "Suriname (le)",
         "iso_alpha2": "SR",
@@ -1696,7 +1696,7 @@ data = [
         "iso_numeric": 740,
     },
     {
-        "name": "Svalbard and Jan Mayen",
+        "label": "Svalbard and Jan Mayen",
         "iso_en_shortname": "Svalbard and Jan Mayen",
         "iso_fr_shortname": "Svalbard et l'Île Jan Mayen (le)",
         "iso_alpha2": "SJ",
@@ -1704,7 +1704,7 @@ data = [
         "iso_numeric": 744,
     },
     {
-        "name": "Sweden",
+        "label": "Sweden",
         "iso_en_shortname": "Sweden",
         "iso_fr_shortname": "Suède (la)",
         "iso_alpha2": "SE",
@@ -1712,7 +1712,7 @@ data = [
         "iso_numeric": 752,
     },
     {
-        "name": "Switzerland",
+        "label": "Switzerland",
         "iso_en_shortname": "Switzerland",
         "iso_fr_shortname": "Suisse (la)",
         "iso_alpha2": "CH",
@@ -1720,7 +1720,7 @@ data = [
         "iso_numeric": 756,
     },
     {
-        "name": "Syria",
+        "label": "Syria",
         "iso_en_shortname": "Syrian Arab Republic (the)",
         "iso_fr_shortname": "République arabe syrienne (la)",
         "iso_alpha2": "SY",
@@ -1728,7 +1728,7 @@ data = [
         "iso_numeric": 760,
     },
     {
-        "name": "Taiwan (Province of China)",
+        "label": "Taiwan (Province of China)",
         "iso_en_shortname": "Taiwan (Province of China)",
         "iso_fr_shortname": "Taïwan (Province de Chine)",
         "iso_alpha2": "TW",
@@ -1736,7 +1736,7 @@ data = [
         "iso_numeric": 158,
     },
     {
-        "name": "Tajikistan",
+        "label": "Tajikistan",
         "iso_en_shortname": "Tajikistan",
         "iso_fr_shortname": "Tadjikistan (le)",
         "iso_alpha2": "TJ",
@@ -1744,7 +1744,7 @@ data = [
         "iso_numeric": 762,
     },
     {
-        "name": "Tanzania",
+        "label": "Tanzania",
         "iso_en_shortname": "Tanzania, the United Republic of",
         "iso_fr_shortname": "Tanzanie (la République-Unie de)",
         "iso_alpha2": "TZ",
@@ -1752,7 +1752,7 @@ data = [
         "iso_numeric": 834,
     },
     {
-        "name": "Thailand",
+        "label": "Thailand",
         "iso_en_shortname": "Thailand",
         "iso_fr_shortname": "Thaïlande (la)",
         "iso_alpha2": "TH",
@@ -1760,7 +1760,7 @@ data = [
         "iso_numeric": 764,
     },
     {
-        "name": "Timor-Leste",
+        "label": "Timor-Leste",
         "iso_en_shortname": "Timor-Leste",
         "iso_fr_shortname": "Timor-Leste (le)",
         "iso_alpha2": "TL",
@@ -1768,7 +1768,7 @@ data = [
         "iso_numeric": 626,
     },
     {
-        "name": "Togo",
+        "label": "Togo",
         "iso_en_shortname": "Togo",
         "iso_fr_shortname": "Togo (le)",
         "iso_alpha2": "TG",
@@ -1776,7 +1776,7 @@ data = [
         "iso_numeric": 768,
     },
     {
-        "name": "Tokelau",
+        "label": "Tokelau",
         "iso_en_shortname": "Tokelau",
         "iso_fr_shortname": "Tokelau (les)",
         "iso_alpha2": "TK",
@@ -1784,7 +1784,7 @@ data = [
         "iso_numeric": 772,
     },
     {
-        "name": "Tonga",
+        "label": "Tonga",
         "iso_en_shortname": "Tonga",
         "iso_fr_shortname": "Tonga (les)",
         "iso_alpha2": "TO",
@@ -1792,7 +1792,7 @@ data = [
         "iso_numeric": 776,
     },
     {
-        "name": "Trinidad and Tobago",
+        "label": "Trinidad and Tobago",
         "iso_en_shortname": "Trinidad and Tobago",
         "iso_fr_shortname": "Trinité-et-Tobago (la)",
         "iso_alpha2": "TT",
@@ -1800,7 +1800,7 @@ data = [
         "iso_numeric": 780,
     },
     {
-        "name": "Tunisia",
+        "label": "Tunisia",
         "iso_en_shortname": "Tunisia",
         "iso_fr_shortname": "Tunisie (la)",
         "iso_alpha2": "TN",
@@ -1808,7 +1808,7 @@ data = [
         "iso_numeric": 788,
     },
     {
-        "name": "Turkmenistan",
+        "label": "Turkmenistan",
         "iso_en_shortname": "Turkmenistan",
         "iso_fr_shortname": "Turkménistan (le)",
         "iso_alpha2": "TM",
@@ -1816,7 +1816,7 @@ data = [
         "iso_numeric": 795,
     },
     {
-        "name": "Turks and Caicos Islands",
+        "label": "Turks and Caicos Islands",
         "iso_en_shortname": "Turks and Caicos Islands (the)",
         "iso_fr_shortname": "Turks-et-Caïcos (les Îles)",
         "iso_alpha2": "TC",
@@ -1824,7 +1824,7 @@ data = [
         "iso_numeric": 796,
     },
     {
-        "name": "Tuvalu",
+        "label": "Tuvalu",
         "iso_en_shortname": "Tuvalu",
         "iso_fr_shortname": "Tuvalu (les)",
         "iso_alpha2": "TV",
@@ -1832,7 +1832,7 @@ data = [
         "iso_numeric": 798,
     },
     {
-        "name": "Türkiye",
+        "label": "Türkiye",
         "iso_en_shortname": "Türkiye",
         "iso_fr_shortname": "Türkiye (la)",
         "iso_alpha2": "TR",
@@ -1840,7 +1840,7 @@ data = [
         "iso_numeric": 792,
     },
     {
-        "name": "Uganda",
+        "label": "Uganda",
         "iso_en_shortname": "Uganda",
         "iso_fr_shortname": "Ouganda (l')",
         "iso_alpha2": "UG",
@@ -1848,7 +1848,7 @@ data = [
         "iso_numeric": 800,
     },
     {
-        "name": "Ukraine",
+        "label": "Ukraine",
         "iso_en_shortname": "Ukraine",
         "iso_fr_shortname": "Ukraine (l')",
         "iso_alpha2": "UA",
@@ -1856,7 +1856,7 @@ data = [
         "iso_numeric": 804,
     },
     {
-        "name": "United Arab Emirates",
+        "label": "United Arab Emirates",
         "iso_en_shortname": "United Arab Emirates (the)",
         "iso_fr_shortname": "Émirats arabes unis (les)",
         "iso_alpha2": "AE",
@@ -1864,7 +1864,7 @@ data = [
         "iso_numeric": 784,
     },
     {
-        "name": "United Kingdom",
+        "label": "United Kingdom",
         "iso_en_shortname": "United Kingdom of Great Britain and Northern Ireland (the)",
         "iso_fr_shortname": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le)",
         "iso_alpha2": "GB",
@@ -1872,7 +1872,7 @@ data = [
         "iso_numeric": 826,
     },
     {
-        "name": "United States Minor Outlying Islands",
+        "label": "United States Minor Outlying Islands",
         "iso_en_shortname": "United States Minor Outlying Islands (the)",
         "iso_fr_shortname": "Îles mineures éloignées des États-Unis (les)",
         "iso_alpha2": "UM",
@@ -1880,7 +1880,7 @@ data = [
         "iso_numeric": 581,
     },
     {
-        "name": "United States of America",
+        "label": "United States of America",
         "iso_en_shortname": "United States of America (the)",
         "iso_fr_shortname": "États-Unis d'Amérique (les)",
         "iso_alpha2": "US",
@@ -1888,7 +1888,7 @@ data = [
         "iso_numeric": 840,
     },
     {
-        "name": "Uruguay",
+        "label": "Uruguay",
         "iso_en_shortname": "Uruguay",
         "iso_fr_shortname": "Uruguay (l')",
         "iso_alpha2": "UY",
@@ -1896,7 +1896,7 @@ data = [
         "iso_numeric": 858,
     },
     {
-        "name": "Uzbekistan",
+        "label": "Uzbekistan",
         "iso_en_shortname": "Uzbekistan",
         "iso_fr_shortname": "Ouzbékistan (l')",
         "iso_alpha2": "UZ",
@@ -1904,7 +1904,7 @@ data = [
         "iso_numeric": 860,
     },
     {
-        "name": "Vanuatu",
+        "label": "Vanuatu",
         "iso_en_shortname": "Vanuatu",
         "iso_fr_shortname": "Vanuatu (le)",
         "iso_alpha2": "VU",
@@ -1912,7 +1912,7 @@ data = [
         "iso_numeric": 548,
     },
     {
-        "name": "Venezuela",
+        "label": "Venezuela",
         "iso_en_shortname": "Venezuela (Bolivarian Republic of)",
         "iso_fr_shortname": "Venezuela (République bolivarienne du)",
         "iso_alpha2": "VE",
@@ -1920,7 +1920,7 @@ data = [
         "iso_numeric": 862,
     },
     {
-        "name": "Vietnam",
+        "label": "Vietnam",
         "iso_en_shortname": "Viet Nam",
         "iso_fr_shortname": "Viet Nam (le)",
         "iso_alpha2": "VN",
@@ -1928,7 +1928,7 @@ data = [
         "iso_numeric": 704,
     },
     {
-        "name": "British Virgin Islands",
+        "label": "British Virgin Islands",
         "iso_en_shortname": "Virgin Islands (British)",
         "iso_fr_shortname": "Vierges britanniques (les Îles)",
         "iso_alpha2": "VG",
@@ -1936,7 +1936,7 @@ data = [
         "iso_numeric": 92,
     },
     {
-        "name": "United States Virgin Islands",
+        "label": "United States Virgin Islands",
         "iso_en_shortname": "Virgin Islands (U.S.)",
         "iso_fr_shortname": "Vierges des États-Unis (les Îles)",
         "iso_alpha2": "VI",
@@ -1944,7 +1944,7 @@ data = [
         "iso_numeric": 850,
     },
     {
-        "name": "Wallis and Futuna",
+        "label": "Wallis and Futuna",
         "iso_en_shortname": "Wallis and Futuna",
         "iso_fr_shortname": "Wallis-et-Futuna ",
         "iso_alpha2": "WF",
@@ -1952,7 +1952,7 @@ data = [
         "iso_numeric": 876,
     },
     {
-        "name": "Western Sahara",
+        "label": "Western Sahara",
         "iso_en_shortname": "Western Sahara*",
         "iso_fr_shortname": "Sahara occidental (le)*",
         "iso_alpha2": "EH",
@@ -1960,7 +1960,7 @@ data = [
         "iso_numeric": 732,
     },
     {
-        "name": "Yemen",
+        "label": "Yemen",
         "iso_en_shortname": "Yemen",
         "iso_fr_shortname": "Yémen (le)",
         "iso_alpha2": "YE",
@@ -1968,7 +1968,7 @@ data = [
         "iso_numeric": 887,
     },
     {
-        "name": "Zambia",
+        "label": "Zambia",
         "iso_en_shortname": "Zambia",
         "iso_fr_shortname": "Zambie (la)",
         "iso_alpha2": "ZM",
@@ -1976,7 +1976,7 @@ data = [
         "iso_numeric": 894,
     },
     {
-        "name": "Zimbabwe",
+        "label": "Zimbabwe",
         "iso_en_shortname": "Zimbabwe",
         "iso_fr_shortname": "Zimbabwe (le)",
         "iso_alpha2": "ZW",
@@ -1984,7 +1984,7 @@ data = [
         "iso_numeric": 716,
     },
     {
-        "name": "Åland Islands",
+        "label": "Åland Islands",
         "iso_en_shortname": "Åland Islands",
         "iso_fr_shortname": "Åland (les Îles)",
         "iso_alpha2": "AX",

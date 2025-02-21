@@ -1,6 +1,6 @@
 # commondata-countries
 
-A Python package for managing country data.
+Work with [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) [alpha2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2), [alpha3](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3) and [numeric](https://en.wikipedia.org/wiki/ISO_3166-1_numeric) standard country data
 
 ## Installation
 
