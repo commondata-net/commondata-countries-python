@@ -70,7 +70,7 @@ python -m commondata-countries United States
 
 ## Other Formats and Datasets
 
-Download CSV, XLSX, JSON and YAML files from [commondata.net/countries](https://commondata.net/countries).
+Download CSV, XLSX, JSON and YAML files from [commondata.net/countries](https://commondata.net/library/#countries).
 
 [commondata.net](https://commondata.net) maintains a collection of essential datasets in a variety of formats, including
 python bindings. Check out the full library here: [commondata.net/library](https://commondata.net/library).
