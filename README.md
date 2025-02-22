@@ -68,9 +68,19 @@ print(country)
 python -m commondata-countries United States
 ```
 
+**Load countries data into pandas dataframe**
+
+```python
+import pandas as pd
+
+from commondata_countries.data import countries
+
+df = pd.DataFrame(countries)
+```
+
 ## Other Formats and Datasets
 
-Download CSV, XLSX, JSON and YAML files from [commondata.net/countries](https://commondata.net/library/#countries).
+Download CSV, XLSX, JSON and YAML files from [commondata.net/library](https://commondata.net/library/#countries).
 
 [commondata.net](https://commondata.net) maintains a collection of essential datasets in a variety of formats, including
 python bindings. Check out the full library here: [commondata.net/library](https://commondata.net/library).

@@ -1,4 +1,4 @@
-from typing import Dict, Iterator, List, Union
+from typing import Iterator, List, Union
 
 from rapidfuzz import process
 
