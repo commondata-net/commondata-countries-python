@@ -62,7 +62,7 @@ print(country)
 > Country(name='United States of America', iso_alpha2='US', iso_alpha3='USA', iso_numeric=840)
 ```
 
-***Use CLI to lookup a country***
+**Use CLI to lookup a country**
 
 ```bash
 python -m commondata-countries United States
