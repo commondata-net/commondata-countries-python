@@ -80,7 +80,7 @@ df = pd.DataFrame(countries)
 
 ## Other Formats and Datasets
 
-Download CSV, XLSX, JSON and YAML files from [commondata.net/library](https://commondata.net/library/#countries).
+Download CSV, XLSX, JSON and YAML files from [commondata.net/countries](https://commondata.net/countries).
 
 [commondata.net](https://commondata.net) maintains a collection of essential datasets in a variety of formats, including
 python bindings. Check out the full library here: [commondata.net/library](https://commondata.net/library).
