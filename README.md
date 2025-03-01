@@ -1,5 +1,9 @@
 # commondata-countries
 
+![PyPI - License](https://img.shields.io/pypi/l/commondata-countries)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/commondata-countries)
+
+
 Work with [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) [alpha2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2), [alpha3](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3) and [numeric](https://en.wikipedia.org/wiki/ISO_3166-1_numeric) standard country data.
 
 List, lookup with fuzzy search, and synonyms.
