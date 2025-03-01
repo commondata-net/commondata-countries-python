@@ -1,6 +1,6 @@
 [project]
 name = "commondata-countries"
-version = "2.2.1"
+version = "2.2.2"
 description = "Work with ISO 3166-1 alpha2, alpha3 and numeric standard country data"
 authors = [
     {name = "Shiv Deepak",email = "shivdeepak@gmail.com"}
@@ -10,7 +10,7 @@ requires-python = ">=3.9"
 dependencies = [
     "rapidfuzz (>=3.12.1,<4.0.0)"
 ]
-license = "GPL-3.0-only"
+license = {text = "GPL-3.0-only"}
 
 classifiers = [
     "Development Status :: 4 - Beta",
