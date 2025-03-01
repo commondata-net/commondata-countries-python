@@ -2,31 +2,28 @@ name: Publish to PyPI
 
 on:
   release:
-      types: [created, published]
-
-permissions:
-  contents: read
-  id-token: write
+    types:
+      - published
 
 jobs:
   publish:
     runs-on: ubuntu-latest
-
+    permissions:
+      id-token: write
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          python-version: "3.13"
+          python-version: '3.13'
+          cache: 'pip'
 
       - name: Install Poetry
-        run: pipx install poetry
+        run: |
+          pipx install poetry
+          poetry install
 
       - name: Build Package with Poetry
         run: poetry build
 
       - name: Publish to PyPI
         run: poetry publish
-
