@@ -88,5 +88,4 @@ jobs:
             dist/*
 
       - name: Publish package distributions to PyPI
-        run: |
-          poetry publish
+        uses: pypa/gh-action-pypi-publish@release/v1
