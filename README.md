@@ -46,18 +46,29 @@ countries = CountryData()
 
 # Lookup by name (case insensitive, fuzzy search)
 country = countries["Untied States of America"]
+# Equivalent to
+country = countries.get("Untied States of America")
 
 # Lookup by ISO Alpha-2
 country = countries["US"]
+# Equivalent to
+country = countries.get("US")
 
 # Lookup by ISO Alpha-3
 country = countries["USA"]
+# Equivalent to
+country = countries.get("USA")
 
 # Lookup by ISO Numeric
 country = countries[840]
+# Equivalent to
+country = countries.get(840)
 
 # Lookup by synonym
 country = countries["United States"]
+
+# Search matching countries (ordered by best match first)
+countries = countries.search("United States")
 
 # Look up with fuzzy search
 country = countries["United Stat"]

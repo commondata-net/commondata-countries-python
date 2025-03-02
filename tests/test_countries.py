@@ -49,6 +49,12 @@ def test_fuzzy_lookup(country_data):
     assert country.label == "United States of America"
 
 
+def test_fuzzy_lookup_with_search(country_data):
+    countries = country_data.search("States America")
+    assert len(countries) > 0
+    assert countries[0].label == "United States of America"
+
+
 def test_synonym_lookup(country_data):
     country = country_data["Untied States"]
     assert country.label == "United States of America"
@@ -71,3 +77,36 @@ def test_repr_country(country_data):
 def test_invalid_lookup(country_data):
     with pytest.raises(KeyError):
         country_data["UnknownCountry"]
+
+
+def test_deserialize_country(country_data):
+    country = country_data["United States of America"]
+    assert isinstance(country.to_dict(), dict)
+    assert country.to_dict() == {
+        "label": "United States of America",
+        "iso_alpha2": "US",
+        "iso_alpha3": "USA",
+        "iso_numeric": 840,
+    }
+
+
+def test_search_countries(country_data):
+    countries = country_data.search("united states")
+    assert len(countries) > 1
+    assert "United States of America" in [c.label for c in countries]
+    assert len(countries) == len(set(map(lambda c: c.iso_alpha3, countries)))
+
+
+def test_get_country(country_data):
+    country = country_data.get("US")
+    assert country.label == "United States of America"
+
+
+def test_get_fail(country_data):
+    country = country_data.get("UnknownCountry")
+    assert country is None
+
+
+def test_search_fail(country_data):
+    countries = country_data.search("UnknownCountry")
+    assert len(countries) == 0
